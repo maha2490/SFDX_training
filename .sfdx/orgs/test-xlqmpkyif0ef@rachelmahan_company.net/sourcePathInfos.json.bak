@@ -45,15 +45,15 @@
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1506541323000,
             "changeTime": 1506541323000,
-            "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -866,14 +866,14 @@
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 164,
-            "modifiedTime": 1506530337000,
-            "changeTime": 1506530337000,
-            "contentHash": "e0b0d8f06cbbf0f5141dd73dc821c34711bff828",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 172,
+            "modifiedTime": 1506541620000,
+            "changeTime": 1506541620000,
+            "contentHash": "4c97e0d90d1265e0d966e00b4332ec235d2f0902"
         }
     ],
     [
@@ -1256,92 +1256,92 @@
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1506541323000,
             "changeTime": 1506541323000,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 249,
             "modifiedTime": 1506541372000,
             "changeTime": 1506541372000,
-            "contentHash": "d031407caecbba779741a2b00a3545bb35dc8ea3"
+            "contentHash": "d031407caecbba779741a2b00a3545bb35dc8ea3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1506541323000,
             "changeTime": 1506541323000,
-            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403"
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 41,
             "modifiedTime": 1506541496000,
             "changeTime": 1506541496000,
-            "contentHash": "d8f383c323ae8d4ecb1118be01a81eff5cf0485c"
+            "contentHash": "d8f383c323ae8d4ecb1118be01a81eff5cf0485c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 362,
             "modifiedTime": 1506541477000,
             "changeTime": 1506541477000,
-            "contentHash": "76e71ac6f9b9f471b6e65f84335e2f7b0c394048"
+            "contentHash": "76e71ac6f9b9f471b6e65f84335e2f7b0c394048",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1506541323000,
             "changeTime": 1506541323000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/rachelmahan/Documents/development/SF/mckesson_new/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1506541323000,
             "changeTime": 1506541323000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

@@ -7,5 +7,14 @@
         attribution: 'Tiles © Esri'
       }).addTo(map);
     component.set("v.map", map);
+  },
+  accountsLoaded: function(component, event, helper) {
+    var map = component.get('v.map');
+    var accounts = event.getParam('accounts');
+    for (var i=0; i < accounts.length; i++) {
+      var account = accounts[i];
+      var latLang = [account.Location__Latitude__s, account.Location__Longitude__s]
+      L.marker(latLang, {account: account}).addTo(map);
+    }
   }
 })
